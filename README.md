@@ -12,5 +12,5 @@ See [roadmap here](https://github.com/users/vazsingh/projects/1).
 
 ## Prerequisites
 - python > 3.10.x - [Download here](https://www.python.org/downloads/)
-- 
+
 "Necessity is the mother of invention"

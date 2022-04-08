@@ -8,7 +8,9 @@ Generate handwriting practice worksheets for toddlers / kids aged 1-3
 - Fetch words and/or use a dictionary of short words (maximum four letters)
 - Output a printable PDF document
 
-"Necessity is the mother of invention"
+See [roadmap here](https://github.com/users/vazsingh/projects/1).
 
 ## Prerequisites
 - python > 3.10.x - Go to [link](https://www.python.org/downloads/) to download it
+
+"Necessity is the mother of invention"

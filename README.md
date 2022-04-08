@@ -10,5 +10,5 @@ Generate handwriting practice worksheets for toddlers / kids aged 1-3
 
 "Necessity is the mother of invention"
 
-##Prerequisites
+## Prerequisites
 - python > 3.10.x - Go to [link](https://www.python.org/downloads/) to download it

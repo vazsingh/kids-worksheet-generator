@@ -11,6 +11,6 @@ Generate handwriting practice worksheets for toddlers / kids aged 1-3
 See [roadmap here](https://github.com/users/vazsingh/projects/1).
 
 ## Prerequisites
-- python > 3.10.x - Go to [link](https://www.python.org/downloads/) to download it
-
+- python > 3.10.x - [Download here](https://www.python.org/downloads/)
+- 
 "Necessity is the mother of invention"
